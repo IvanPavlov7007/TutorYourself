@@ -1,0 +1,11 @@
+﻿  editablelabel.cpp
+  moc_editablelabel.cpp
+  moc_rowwidget.cpp
+  moc_tutoryourself.cpp
+  probabilityrandom.cpp
+  rowwidget.cpp
+  library.cpp
+  main.cpp
+  tutoryourself.cpp
+  Generating Code...
+  TutorYourself.vcxproj -> D:\Users\Ivan\Documents\Visual Studio 2015\Projects\TutorYourself\Win32\Release\TutorYourself.exe

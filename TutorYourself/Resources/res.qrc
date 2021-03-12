@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>checked_checkbox.png</file>
+        <file>spinBox_downButton.png</file>
+        <file>spinBox_upButton.png</file>
+        <file>ClosedBranches.png</file>
+        <file>OpenBranches.png</file>
+        <file>delete.png</file>
+        <file>edit.png</file>
+        <file>green_stage.png</file>
+        <file>red_stage.png</file>
+        <file>yellow_stage.png</file>
+        <file>transparent_stage.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,278 @@
+<Group Name="Bücher des Himmelsrands" Enabled="true">
+    <Group Name="Die Geißel des Grauen Bezirks" Enabled="true">
+        <Word Meaning="von dort draußen nach hier drinnen dringen" Name="Hereinbringen" Translation="привносить" Enabled="true" WordClass="1">
+            <Form>hereingebrochen</Form>
+            <Context>Die Tragödie, die über Morrowind hereingebrochen ist, weckt selbst im härtesten Nord-Herz Mitleid</Context>
+        </Word>
+        <Word Meaning="die Eigenschaft, barmherzig zu sein und/oder zu handeln" Name="Die Barmherzigkeit" Translation="милосердие" Enabled="true" WordClass="3">
+            <Form>barmherzigkeit</Form>
+            <Context>Die Dunkelelfen verdienen unser Beileid, doch bislang haben sie nichts getan, womit sie selbst den kleinsten Akt der Barmherzigkeit verdient hätten.</Context>
+        </Word>
+        <Word Meaning="Person oder Modell, mit dem man sich identifizieren kann" Name="Das Vorbild" Translation="пример для подражания" Enabled="true" WordClass="3">
+            <Form>vorbild</Form>
+            <Form>vorbilder</Form>
+            <Context>Die eine soll als Vorbild dienen, die andere als abschreckendes Beispiel.</Context>
+            <Context>Sie haben sich als Vorbilder erwiesen und rackern sich am Hafen ab, mit äußerster Effizienz und seinem strahlenden Lächeln.</Context>
+        </Word>
+        <Word Meaning="etwas, das jemanden (oder etwas) fern halten soll, indem es erschreckend wirkt" Name="Abschreckend" Translation="предостерегающий" Enabled="true" WordClass="2">
+            <Form>abschreckendes</Form>
+            <Context>Die eine soll als Vorbild dienen, die andere als abschreckendes Beispiel.</Context>
+        </Word>
+        <Word Meaning="einige, viele, mehrere, eine ganze Anzahl; eine unbestimmte, aber im Vergleich größere Zahl" Name="Etlich" Translation="несколько, много, немало" Enabled="true" WordClass="2">
+            <Form>etliche</Form>
+            <Context>Etliche Dunkelelfen haben sich dort niedergelassen, doch es wird von ihnen erwartet, dass sie sich ihren Lebensunterhalt verdienen, so wie alle anderen Bürger dieser großartigen Stadt.</Context>
+            <Context>Heute hat die Stadt immer noch etliche Probleme, doch sie sind nicht auf den Zustrom von Fremdlingen zurückzuführen.</Context>
+        </Word>
+        <Word Meaning="eine Aktivität oder Arbeit ausführen" Name="Verrichten" Translation="выполнять" Enabled="true" WordClass="1">
+            <Form>verrichten</Form>
+            <Context>Dass sie ehrliche Arbeit verrichten ist bewundernswert, wenn man bedenkt, in welch schlimmer Lage sich dieses Volk vor kurzem noch befand - was diese ganze Diskussion ja überhaupt erst notwendig macht</Context>
+        </Word>
+        <Word Meaning="Bewunderung hervorrufend, verdienend; würdig bestaunt" Name="Bewundernswert" Translation="достойный восхищения" Enabled="true" WordClass="2">
+            <Form>bewundernswert</Form>
+            <Context>Dass sie ehrliche Arbeit verrichten ist bewundernswert, wenn man bedenkt, in welch schlimmer Lage sich dieses Volk vor kurzem noch befand - was diese ganze Diskussion ja überhaupt erst notwendig macht</Context>
+        </Word>
+        <Word Meaning="sich gedanklich mit etwas auseinandersetzen" Name="Bedenken" Translation="учитывать" Enabled="true" WordClass="1">
+            <Form>bedenkt</Form>
+            <Context>Dass sie ehrliche Arbeit verrichten ist bewundernswert, wenn man bedenkt, in welch schlimmer Lage sich dieses Volk vor kurzem noch befand - was diese ganze Diskussion ja überhaupt erst notwendig macht</Context>
+        </Word>
+        <Word Meaning="Eine der Bedeutungen: Ursachen angeben" Name="Zurückführen" Translation="Относить(ся), объяснять(ся)" Enabled="true" WordClass="1">
+            <Form>zurückzuführen</Form>
+            <Context>Heute hat die Stadt immer noch etliche Probleme, doch sie sind nicht auf den Zustrom von Fremdlingen zurückzuführen.</Context>
+        </Word>
+        <Word Meaning="eine nicht verbindliche Übereinkunft, die durch häufiges Wiederholen zur Konvention geworden ist" Name="Die Gepflogenheit" Translation="обычай, привычка" Enabled="true" WordClass="3">
+            <Form>gepflogenheiten</Form>
+            <Context>Kurzum, die Dunkelelfen haben sich an die in Himmelsrand herrschenden Gepflogenheiten angepasst, so wie es sich für Neulinge in diesen Landen gebührt.</Context>
+        </Word>
+        <Word Meaning="etwas passend machen, angleichen" Name="Anpassen" Translation="приспосабливаться" Enabled="true" WordClass="1">
+            <Form>angepasst</Form>
+            <Context>Kurzum, die Dunkelelfen haben sich an die in Himmelsrand herrschenden Gepflogenheiten angepasst, so wie es sich für Neulinge in diesen Landen gebührt.</Context>
+        </Word>
+        <Word Meaning="etwas gebührt sich: es schickt sich; es ist richtig und angemessen" Name="Gebühren" Translation="полагаться(как награда), пример: Так им и пологается" Enabled="true" WordClass="1">
+            <Form>gebührt</Form>
+            <Context>Kurzum, die Dunkelelfen haben sich an die in Himmelsrand herrschenden Gepflogenheiten angepasst, so wie es sich für Neulinge in diesen Landen gebührt.</Context>
+        </Word>
+        <Word Meaning="einen Ankommenden begrüßen oder aufnehmen" Name="Empfangen" Translation="принимать(гостей)" Enabled="true" WordClass="1">
+            <Form>empfängt</Form>
+            <Context>Andererseits brauchen wir unser Augenmerk nur auf die ehemals stolze Stadt Windhelm zu richten, um zu sehen, was passiert, wenn man Neuankömmlinge mit allzu offenen Armen empfängt.</Context>
+        </Word>
+        <Word Meaning="extrem, sehr, über die Maßen" Name="Allzu" Translation="полностью, сверх меры" Enabled="true" WordClass="0">
+            <Form>allzu</Form>
+            <Context>Andererseits brauchen wir unser Augenmerk nur auf die ehemals stolze Stadt Windhelm zu richten, um zu sehen, was passiert, wenn man Neuankömmlinge mit allzu offenen Armen empfängt.</Context>
+        </Word>
+        <Word Meaning="mitwirken, sich einsetzen, sich beteiligen, aktiv werden, offenherzig sein" Name="Einbringen" Translation="вкладываться( в работу)" Enabled="true" WordClass="1">
+            <Form>einbringen</Form>
+            <Context>Ich gehe davon aus, dass sie sich zu gegebener Zeit entweder stärker einbringen werden oder einmal mehr auf der Suche nach Wärme und einem Dach über dem Kopf umherziehen werden.</Context>
+        </Word>
+        <Word Meaning="ohne zur Ruhe kommend, von einem Ort zum nächsten ziehen" Name="Umherziehen" Translation="кочевать" Enabled="true" WordClass="1">
+            <Form>umherziehen</Form>
+            <Context>Ich gehe davon aus, dass sie sich zu gegebener Zeit entweder stärker einbringen werden oder einmal mehr auf der Suche nach Wärme und einem Dach über dem Kopf umherziehen werden.</Context>
+        </Word>
+        <Word Meaning="bewirken, einen bestimmten Zustand herstellen" Name="Stiften" Translation="учинять" Enabled="true" WordClass="1">
+            <Form>gestiftet</Form>
+            <Context>Schlimm genug, dass sie eine stolze Nord-Stadt in einen Außenposten von Morrowind verwandeln wollen, aber sie haben innerhalb der Stadtmauern schon derart viel Unruhe gestiftet, dass ein jeder Jarl Grund zur Furcht haben sollte.</Context>
+        </Word>
+        <Word Meaning="Standort fern vom Zentrum" Name="Der Außenposten" Translation="застава" Enabled="true" WordClass="3">
+            <Form>außenposten</Form>
+            <Context>Schlimm genug, dass sie eine stolze Nord-Stadt in einen Außenposten von Morrowind verwandeln wollen, aber sie haben innerhalb der Stadtmauern schon derart viel Unruhe gestiftet, dass ein jeder Jarl Grund zur Furcht haben sollte.</Context>
+        </Word>
+        <Word Meaning="zumeist im Plural stehend:Gepflogenheit; etwas, das man aus Tradition macht" Name="Die Gebräuche(Plural)" Translation="обычаи, манеры" Enabled="true" WordClass="3">
+            <Form>gebräuche</Form>
+            <Context>Die Stadtwache patrouilliert kaum, so dass es den Dunkelelfen überlassen bleibt, für Gerechtigkeit zu sorgen - oder zumindest für das, was ihre heimischen Gebräuche darunter verstehen.</Context>
+        </Word>
+        <Word Meaning="eine Handlung oder Entscheidung von einem anderen vornehmen lassen" Name="Überlassen" Translation="перепоручать" Enabled="true" WordClass="1">
+            <Form>überlassen</Form>
+            <Context>Die Stadtwache patrouilliert kaum, so dass es den Dunkelelfen überlassen bleibt, für Gerechtigkeit zu sorgen - oder zumindest für das, was ihre heimischen Gebräuche darunter verstehen.</Context>
+        </Word>
+        <Word Meaning="die Bevorzugung, das Wohlwollen, die Gewogenheit" Name="Die Gunst" Translation="расположение, доброжелательность" Enabled="true" WordClass="3">
+            <Form>gunst</Form>
+            <Context>Die angesehen Familien der Stadt, Grausam-Meer und Schmetter-Schild, sprechen mit fast schon elterlicher Zuneigung von den Argoniern in ihrem Dienste, doch die Dunkelelfen haben sich keine Mühe gegeben, sich zu integrieren oder die Gunst der Stadtbewohner zu erwerben.</Context>
+        </Word>
+        <Word Meaning="von (vielen) Menschen geschätzt und respektiert" Name="Angesehen" Translation="почтенный, уважаемый" Enabled="true" WordClass="2">
+            <Form>angesehen</Form>
+            <Context>Die angesehen Familien der Stadt, Grausam-Meer und Schmetter-Schild, sprechen mit fast schon elterlicher Zuneigung von den Argoniern in ihrem Dienste, doch die Dunkelelfen haben sich keine Mühe gegeben, sich zu integrieren oder die Gunst der Stadtbewohner zu erwerben.</Context>
+        </Word>
+        <Word Meaning="Plural selten: Gefühl der Freundschaft, Liebe für jemanden" Name="Zuneigung" Translation="склонность, симпатия" Enabled="true" WordClass="3">
+            <Form>zuneigung</Form>
+            <Context>Die angesehen Familien der Stadt, Grausam-Meer und Schmetter-Schild, sprechen mit fast schon elterlicher Zuneigung von den Argoniern in ihrem Dienste, doch die Dunkelelfen haben sich keine Mühe gegeben, sich zu integrieren oder die Gunst der Stadtbewohner zu erwerben.</Context>
+        </Word>
+        <Word Meaning="von geringem Wert und/oder von schlechter Qualität" Name="Minderwertig" Translation="неполноценный" Enabled="true" WordClass="2">
+            <Form>minderwertigen</Form>
+            <Context>Es besteht jedoch Grund zur Hoffnung, denn Jarl Ulfric steht diesen minderwertigen Geschöpfen nicht annähernd so tolerant wie seine Väter gegenüber.</Context>
+        </Word>
+        <Word Meaning="fast, nur einen kleinen Unterschied habend" Name="Annähernd" Translation="приблизительно" Enabled="true" WordClass="4">
+            <Form>annähernd</Form>
+            <Context>Es besteht jedoch Grund zur Hoffnung, denn Jarl Ulfric steht diesen minderwertigen Geschöpfen nicht annähernd so tolerant wie seine Väter gegenüber.</Context>
+        </Word>
+        <Word Meaning="barmherzig, gütiger Gesinnung, Gnade zeigend" Name="Gnädig" Translation="милостивый, милосердный" Enabled="true" WordClass="2">
+            <Form>gnädige</Form>
+            <Context>Hoags gnädige Hand sieht man auch an den in der Stadt lebenden Argoniern</Context>
+        </Word>
+        <Word Meaning="natürliches oder künstlich angelegtes Wasserbecken für Schiffe am Meeresrand oder an Binnenwasserwegen, um dort zu liegen und zu ankern, mit Anlagen zum Löschen, Laden, Reinigen und Ausbessern" Name="Der Hafen" Translation="порт" Enabled="true" WordClass="3">
+            <Form>hafen</Form>
+            <Context>Sie haben sich als Vorbilder erwiesen und rackern sich am Hafen ab, mit äußerster Effizienz und seinem strahlenden Lächeln.</Context>
+        </Word>
+        <Word Meaning="einen Nachweis erbringen" Name="Erweisen" Translation="доказывать" Enabled="true" WordClass="1">
+            <Form>erwiesen</Form>
+            <Context>Sie haben sich als Vorbilder erwiesen und rackern sich am Hafen ab, mit äußerster Effizienz und seinem strahlenden Lächeln.</Context>
+        </Word>
+        <Word Meaning="reflexiv, salopp: sich bis zur Erschöpfung mühen, schwer arbeiten" Name="Abrackern" Translation="надрываться" Enabled="true" WordClass="1">
+            <Form>rackern</Form>
+            <Context>Sie haben sich als Vorbilder erwiesen und rackern sich am Hafen ab, mit äußerster Effizienz und seinem strahlenden Lächeln.</Context>
+        </Word>
+        <Word Meaning="sehr, im höchsten/allerhöchsten/außerordentlichen Maße" Name="Äußerst" Translation="в высшей степени" Enabled="true" WordClass="2">
+            <Form>äußerster</Form>
+            <Form>äußerst</Form>
+            <Context>Sie haben sich als Vorbilder erwiesen und rackern sich am Hafen ab, mit äußerster Effizienz und seinem strahlenden Lächeln.</Context>
+            <Context>in den letzten zwei Jahrzehnten verzeichnete die Gilde einen ungewöhnlichen Anstieg an gescheiterten Versuchen, äußerst lukrative Raubüberfälle durchzuführen</Context>
+        </Word>
+        <Word Meaning="mit Schuppen bedeckt" Name="Geschuppt" Translation="чешуйчатый" Enabled="true" WordClass="2">
+            <Form>geschuppten</Form>
+            <Context>Die Dunkelelfen täten gut daran, sich ein Beispiel an ihren geschuppten Cousins zu nehmen.</Context>
+        </Word>
+        <Word Meaning="Peitsche, Stab mit Riemen oder Schnüren zur Züchtigung" Name="Die Geißel" Translation="бич" Enabled="true" WordClass="3">
+            <Form>geißel</Form>
+            <Context>Die Geißel des Grauen Bezirks</Context>
+        </Word>
+    </Group>
+    <Group Name="Der Drachenkrieg" Enabled="true">
+        <Word Meaning="transitiv: jemandem mit großer Hochachtung und Bewunderung begegnen" Name="Verehren" Translation="поклоняться" Enabled="true" WordClass="1">
+            <Form>verehrt</Form>
+            <Context>Als Ysgramor in der Merethrischen Ära zum ersten Mal seinen Fuß auf tamrielischen Boden setzte, brachte sein Volk einen Glauben mit, bei dem Tiergötter verehrt wurden.</Context>
+            <Context>Als Götter verehrt wurden der Falke, der Wolf, die Schlange, die Motte, die Eule, der Wal, der Bär, der Fuchs und der Drache.</Context>
+        </Word>
+        <Word Meaning="Religion: einen Gott, eine höhere Macht, durch Gebet verehren" Name="Anbeten" Translation="молиться" Enabled="true" WordClass="1">
+            <Form>anbeteten</Form>
+            <Form>anbeten</Form>
+            <Context>Manche Gelehrte glauben, dass diese primitiven Menschen tatsächlich die Göttlichen anbeteten, wie wir sie kennen, nur eben in der Gestalt dieser Totemtiere.</Context>
+            <Context>Der Kaiser sagt, wir dürften nicht den heiligen Talos anbeten.</Context>
+        </Word>
+        <Word Meaning="weit weg und schlecht zugänglich" Name="Abgelegen" Translation="захолустный, отдалённый" Enabled="true" WordClass="2">
+            <Form>abgelegeneren</Form>
+            <Context>In den abgelegeneren Regionen von Himmelsrand stößt man noch hin und wieder auf zerbrochene Steintotems.</Context>
+        </Word>
+        <Word Meaning="jemandem oder sich selbst eine bestimmte Handlung/Maßnahme (für die Zukunft) offenlassen" Name="Vorbehalten" Translation="оставлять возможность( на будущее)" Enabled="true" WordClass="1">
+            <Form>vorbehalten</Form>
+            <Context>Die Verwendung beider Namen war allein den Drachenpriestern vorbehalten.</Context>
+        </Word>
+        <Word Meaning="Synonyme: einstellen, verändern" Name="Stimmen" Translation="настраивать(людей)" Enabled="true" WordClass="1">
+            <Form>stimmen</Form>
+            <Context>Es wurden majestätische Tempel gebaut, um die Drachen zu ehren und günstig zu stimmen.</Context>
+        </Word>
+        <Word Meaning="jemanden hoch schätzen; Hochachtung zeigen" Name="Ehren" Translation="почитать" Enabled="true" WordClass="1">
+            <Form>ehren</Form>
+            <Context>Es wurden majestätische Tempel gebaut, um die Drachen zu ehren und günstig zu stimmen.</Context>
+        </Word>
+    </Group>
+    <Group Name="Dekret des Monuments" Enabled="true">
+        <Word Meaning="ohne Angst, Furcht und bereit, gegen Gefahren und Schwierigkeiten mutig zu kämpfen" Name="Tapfer" Translation="смелый" Enabled="true" WordClass="2">
+            <Form>tapferen</Form>
+            <Context>Dieser Turm diente einst als Treffpunkt, an dem die tapferen Seelen, die sicher in Himmelsrand gelandet waren, ihre Lieben fanden oder Nachricht für jene hinterließen, die nicht gefunden werden konnten.</Context>
+        </Word>
+        <Word Meaning="zurücklassen, beim Fortgehen liegen lassen, nach dem Weggehen meist absichtlich nicht mitnehmen" Name="Hinterlassen" Translation="оставить после себя" Enabled="true" WordClass="1">
+            <Form>hinterließen</Form>
+            <Context>Dieser Turm diente einst als Treffpunkt, an dem die tapferen Seelen, die sicher in Himmelsrand gelandet waren, ihre Lieben fanden oder Nachricht für jene hinterließen, die nicht gefunden werden konnten.</Context>
+        </Word>
+        <Word Meaning="ernsthafte, feierliche Ankündigung von etwas Bedeutsamem" Name="Die Verheißung&#x9;" Translation="обещание" Enabled="true" WordClass="3">
+            <Form>verheißung</Form>
+            <Context>Er zu ehren jener stehen bleiben, die die Stärke und den Mut besaßen, die Verheißung von Himmelsrand anzunehmen</Context>
+        </Word>
+        <Word Meaning="etwas als Eigentum haben, über das man verfügen kann" Name="Besitzen" Translation="владеть" Enabled="true" WordClass="1">
+            <Form>besaßen</Form>
+            <Context>Er zu ehren jener stehen bleiben, die die Stärke und den Mut besaßen, die Verheißung von Himmelsrand anzunehmen</Context>
+        </Word>
+    </Group>
+    <Group Name="Die Arkturische Häresie" Enabled="true">
+        <Word Meaning="die äußere Form, der Umriss, das Schema" Name="Die Gestalt" Translation="форма" Enabled="true" WordClass="3">
+            <Form>gestalt</Form>
+            <Context>Тachdem sein Gott zerstört worden ist, fällt es Wulfharth schwer, seine Gestalt beizubehalten</Context>
+            <Context>Manche Gelehrte glauben, dass diese primitiven Menschen tatsächlich die Göttlichen anbeteten, wie wir sie kennen, nur eben in der Gestalt dieser Totemtiere.</Context>
+        </Word>
+    </Group>
+    <Group Name="Das Erwachren der Nord" Enabled="true">
+        <Word Meaning="meist bandförmiges Mittel zum Verschnüren und Festbinden von Personen" Name="Die Fessel" Translation="оковы" Enabled="true" WordClass="3">
+            <Form>fesseln</Form>
+            <Context>Werft die Fesseln der Unterdrückung ab!</Context>
+        </Word>
+        <Word Meaning="hinunter werfen, sich einer Sache entledigen" Name="Abwerfen" Translation="сбрасывать" Enabled="true" WordClass="1">
+            <Form>werft</Form>
+            <Context>Werft die Fesseln der Unterdrückung ab!</Context>
+        </Word>
+        <Word Meaning="schweres Geschirr-Teil, das man Ochsen, Kühen und anderen Zugtieren auflegt, und mit dem sie die Last ziehen" Name="Das Joch" Translation="бремя" Enabled="true" WordClass="3">
+            <Form>joch</Form>
+            <Context>Befreit Euch vom Joch des falschen Kaisers!</Context>
+        </Word>
+        <Word Meaning="sich von etwas frei machen" Name="Ablegen" Translation="освободить себя от чего-то" Enabled="true" WordClass="1">
+            <Form>ablegen</Form>
+            <Context>Wie kann ein Mensch einen Gott ablegen?</Context>
+        </Word>
+        <Word Meaning="mutwillig eine Gruppe, zu der man gehört, in einer Konfliktsituation im Stich lassen oder schädigen" Name="Verraten" Translation="предавать" Enabled="true" WordClass="1">
+            <Form>verraten</Form>
+            <Context>Unser eigener Großkönig hat uns an das Kaiserreich verraten.</Context>
+        </Word>
+        <Word Meaning="plötzlicher und unerwarteter Angriff, bei dem der Täter unter Verdeckung seiner wahren Absichten (tückisch-verschlagen) vorgeht" Name="Der Überfall" Translation="набег" Enabled="true" WordClass="3">
+            <Form>überfall</Form>
+            <Context>Sie brannten das stolze Saarthal bei ihrem feigen Überfall nieder, und ließen nichts als Ruinen und Trümmer zurück.</Context>
+        </Word>
+        <Word Meaning="ohne Mut, sich von Angst vor Gefahr leiten lassen" Name="Feige" Enabled="true" WordClass="2">
+            <Form>feigen</Form>
+            <Context>Sie brannten das stolze Saarthal bei ihrem feigen Überfall nieder, und ließen nichts als Ruinen und Trümmer zurück.</Context>
+        </Word>
+        <Word Meaning="Person, die mit einer anderen zusammen etwas unternimmt" Name="Der Gefährte" Translation="соратник" Enabled="true" WordClass="3">
+            <Form>gefährten</Form>
+            <Context>Aber Ysgramor und seine Söhne sammelten die Fünfhundert Gefährten um sich</Context>
+        </Word>
+    </Group>
+    <Group Name="Der Niedergang" Enabled="true">
+        <Word Meaning="Soldat, der von seiner Einheit getrennt ist oder in die Flucht geschlagen wurde" Name="Der Versprengter" Translation="оставшийся солдат" Enabled="true" WordClass="3">
+            <Form>versprengter</Form>
+            <Context>ist ihr Orden von einer der größten kriminellen Organisationen von ganz Himmelsrand zu einem kleinen Häuflein Versprengter geschrumpft</Context>
+        </Word>
+        <Word Meaning="in einem zügigen Tempo" Name="Rasch" Translation="быстрый" Enabled="true" WordClass="2">
+            <Form>rasche</Form>
+            <Form>raschen</Form>
+            <Context>Zur Rettung unseres Unternehmens muss eine rasche Entscheidung getroffen werden.</Context>
+            <Context>Es ist zwar nie etwas ans Licht gekommen, was diesen raschen Niedergang erklären könnte</Context>
+        </Word>
+        <Word Meaning="etwas, das verloren gegangen ist" Name="Der Verlust" Translation="потеря" Enabled="true" WordClass="3">
+            <Form>verlust</Form>
+            <Context>Der Verlust des Ausweises führt zu einer Geldstrafe.</Context>
+            <Context>Einer Theorie zufolge hat die Gilde einen Verlust erlitten - es gilt als einigermaßen sicher, dass ihr Gildenmeister von einem seiner eigenen Gildenmitglieder ermordet wurde</Context>
+        </Word>
+        <Word Meaning="etwas betreiben, tun" Name="Agieren" Translation="действовать" Enabled="true" WordClass="1">
+            <Form>agieren</Form>
+            <Context>Ohne sie konnte die Gilde nicht mehr gefahrlos in Himmelsrand agieren.</Context>
+        </Word>
+        <Word Meaning="etwas schwieriger machen" Name="Erschweren " Translation="затруднять" Enabled="true" WordClass="1">
+            <Form>erschwert</Form>
+            <Context>Die feuchte Luft erschwert mir das Atmen.</Context>
+        </Word>
+        <Word Meaning="etwas in eine Liste, ein Verzeichnis eintragen" Name="Verzeichnen" Translation="вносить в список" Enabled="true" WordClass="1">
+            <Form>verzeichnet</Form>
+            <Form>verzeichnete</Form>
+            <Context>Bei Malen des Bildes hat sich der Künstler verzeichnet.</Context>
+            <Context>in den letzten zwei Jahrzehnten verzeichnete die Gilde einen ungewöhnlichen Anstieg an gescheiterten Versuchen, äußerst lukrative Raubüberfälle durchzuführen</Context>
+        </Word>
+        <Word Meaning="etwas nicht erreichen, das man erreichen will" Name="Scheitern" Translation="терпеть неудачу, крах" Enabled="true" WordClass="1">
+            <Form>gescheiterten</Form>
+            <Form>gescheitert</Form>
+            <Context>in den letzten zwei Jahrzehnten verzeichnete die Gilde einen ungewöhnlichen Anstieg an gescheiterten Versuchen, äußerst lukrative Raubüberfälle durchzuführen</Context>
+            <Context>Mit diesem Projekt sind wir leider ganz und gar gescheitert.</Context>
+        </Word>
+        <Word Meaning="finanziell einen hohen Gewinn versprechend (gewinnend)" Name="Lukrativ" Translation="прибыльный" Enabled="true" WordClass="2">
+            <Form>lukrative</Form>
+            <Form>lukratives</Form>
+            <Context>in den letzten zwei Jahrzehnten verzeichnete die Gilde einen ungewöhnlichen Anstieg an gescheiterten Versuchen, äußerst lukrative Raubüberfälle durchzuführen</Context>
+            <Context>Dies ist ein überaus lukratives Angebot.</Context>
+        </Word>
+        <Word Meaning="einen Plan, ein Vorhaben oder einen Befehl in die Tat umsetzen" Name="Durchführen" Translation="осуществлять" Enabled="true" WordClass="1">
+            <Form>durchzuführen</Form>
+            <Context>in den letzten zwei Jahrzehnten verzeichnete die Gilde einen ungewöhnlichen Anstieg an gescheiterten Versuchen, äußerst lukrative Raubüberfälle durchzuführen</Context>
+        </Word>
+        <Word Meaning="etwas für glaubhaft oder wahrscheinlich halten" Name="Vermuten" Translation="предполагать" Enabled="true" WordClass="1">
+            <Form>vermuteten</Form>
+            <Form>vermute</Form>
+            <Context>Die Gründe für diesen vermuteten Fluch werden überall gesucht, von dem zuvor erwähnten Mord bis hin zu göttlicher Einflussnahme.</Context>
+            <Context>Ich vermute mal, dass er Recht hat.</Context>
+        </Word>
+    </Group>
+</Group>
